@@ -2,7 +2,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="logo/logo.png" alt="DaiNam University Logo" width="200"/>
+  <img src="![Uploading image.png…]()
+" alt="DaiNam University Logo" width="200"/>
   <img src="logo/AIoTLab_logo.png" alt="AIoTLab Logo" width="170"/>
 </p>
 
