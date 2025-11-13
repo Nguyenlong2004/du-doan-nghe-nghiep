@@ -266,7 +266,7 @@ Tự do sử dụng cho mục đích học tập, nghiên cứu và phát triể
 
 - 🐛 **Báo lỗi**: [Issues](https://github.com/Nguyenlong2004/VN-Jobs-2024/issues)
 - 💬 **Thảo luận**: [Discussions](https://github.com/Nguyenlong2004/VN-Jobs-2024/discussions)
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: nguyenvanlong978767@gmail.com
 
 ---
 
