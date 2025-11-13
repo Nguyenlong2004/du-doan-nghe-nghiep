@@ -1,0 +1,23 @@
+{
+  "text_cols": [
+    "job_title",
+    "skills",
+    "job_fields",
+    "info"
+  ],
+  "cat_cols": [
+    "city",
+    "position_level",
+    "job_type"
+  ],
+  "num_cols": [
+    "experience_years",
+    "skills_count",
+    "salary_min",
+    "salary_max"
+  ],
+  "target": "salary_mid",
+  "unit": "triệu VND/tháng",
+  "MAE": 0.030654072371308475,
+  "R2": 0.996479759418487
+}
