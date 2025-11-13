@@ -1,5 +1,7 @@
 # 💼 VN Jobs 2024 — Phân tích, Trực quan & Dự đoán Lương Việc làm tại Việt Nam
-
+[![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+[![Fit DNU](https://img.shields.io/badge/Fit%20DNU-green?style=for-the-badge)](https://fitdnu.net/)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
@@ -264,9 +266,9 @@ Tự do sử dụng cho mục đích học tập, nghiên cứu và phát triể
 
 ## 📞 Liên hệ & Hỗ trợ
 
-- 🐛 **Báo lỗi**: [Issues](https://github.com/Nguyenlong2004/VN-Jobs-2024/issues)
-- 💬 **Thảo luận**: [Discussions](https://github.com/Nguyenlong2004/VN-Jobs-2024/discussions)
-- 📧 **Email**: nguyenvanlong978767@gmail.com
+- 🌐 Website: [https://dainam.edu.vn](https://dainam.edu.vn)
+- 📧 Email: [email@dainam.edu.vn](mailto:email@dainam.edu.vn)
+- 📱 Facebook: [AIoTLab](https://www.facebook.com/DNUAIoTLab)
 
 ---
 
