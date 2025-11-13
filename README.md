@@ -1,7 +1,17 @@
 # 💼 VN Jobs 2024 — Phân tích, Trực quan & Dự đoán Lương Việc làm tại Việt Nam
+<div align="center">
+
+<p align="center">
+  <img src="logo/logo.png" alt="DaiNam University Logo" width="200"/>
+  <img src="logo/AIoTLab_logo.png" alt="AIoTLab Logo" width="170"/>
+</p>
+
 [![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
 [![Fit DNU](https://img.shields.io/badge/Fit%20DNU-green?style=for-the-badge)](https://fitdnu.net/)
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
+
+</div>
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
