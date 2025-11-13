@@ -36,7 +36,7 @@
 - Phân tích nhu cầu tuyển dụng theo khu vực
 - Top kỹ năng được yêu cầu nhiều nhất
 
-### 2. 🤖 Dự đoán Mức lương với RandomForest
+### 2. 🤖 Dự đoán Mức lương với Photphet
 - Mô hình học máy dự đoán lương dựa trên:
   - Chức danh công việc
   - Cấp độ vị trí (Junior/Middle/Senior)
@@ -179,7 +179,7 @@ Kỹ năng:         [Python, Django, AWS]
 
 ## 📊 Dataset
 
-**Nguồn dữ liệu**: Thu thập từ các trang tuyển dụng lớn tại Việt Nam
+**Nguồn dữ liệu**: Thu thập từ các trang tuyển dụng lớn tại Việt Nam 
 
 **Thông tin dataset**:
 - **Số lượng**: ~15,000+ tin tuyển dụng
@@ -255,25 +255,8 @@ MIT License © 2025 Nguyenlong2004
 Tự do sử dụng cho mục đích học tập, nghiên cứu và phát triển.
 ```
 
----
-
-## 👨‍💻 Tác giả
-
-<div align="center">
-
-### **Nguyenlong2004**
-
-🎓 Sinh viên Kỳ 1 Năm 4 - Môn Chuyển Đổi Số  
-🏫 Học viện An ninh Nhân dân  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🔗 GitHub: [@Nguyenlong2004](https://github.com/Nguyenlong2004)
-
----
 
 ### 🌟 Nếu dự án hữu ích, hãy cho một ⭐ nhé!
-
-[![GitHub stars](https://img.shields.io/github/stars/Nguyenlong2004/VN-Jobs-2024?style=social)](https://github.com/Nguyenlong2004/VN-Jobs-2024/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Nguyenlong2004/VN-Jobs-2024?style=social)](https://github.com/Nguyenlong2004/VN-Jobs-2024/network/members)
 
 </div>
 
